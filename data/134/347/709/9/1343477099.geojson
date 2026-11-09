@@ -54,7 +54,7 @@
         "gn:id":6611390
     },
     "wof:country":"MO",
-    "wof:geomhash":"7b62522d8649478e20837fabe64e9e82",
+    "wof:geomhash":"f266f077f27aa976990adf30f4d39804",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     113.58138999999998,
     22.13306
 ],
-  "geometry": {"coordinates":[113.58138999999998,22.13306],"type":"Point"}
+  "geometry": {"coordinates":[113.58139,22.13306],"type":"Point"}
 }
