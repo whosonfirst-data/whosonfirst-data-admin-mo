@@ -1,0 +1,75 @@
+{
+  "id": 9895042409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.54733,22.19089,113.54733,22.19089",
+    "geom:latitude":22.19089,
+    "geom:longitude":113.54733,
+    "gn:population":52200,
+    "iso:country":"MO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527317: name \"S\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527317"
+        },
+        {
+            "citation":"GeoNames populated place 13527317: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527317"
+        },
+        {
+            "citation":"GeoNames populated place 13527317: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527317"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85681291 (Macau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632161,
+        85681291,
+        102191569,
+        136253041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527317
+    },
+    "wof:country":"MO",
+    "wof:geomhash":"c40996f18c3fb2b9f0db21a2f550cd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632161,
+            "empire_id":136253041,
+            "locality_id":9895042409,
+            "region_id":85681291
+        }
+    ],
+    "wof:id":9895042409,
+    "wof:lastmodified":1795735272,
+    "wof:name":"S\u00e9",
+    "wof:parent_id":85681291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.54733,
+    22.19089,
+    113.54733,
+    22.19089
+],
+  "geometry": {"coordinates":[113.54733,22.19089],"type":"Point"}
+}
